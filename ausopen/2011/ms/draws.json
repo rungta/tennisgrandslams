@@ -1,0 +1,4173 @@
+{
+ "match": 1, 
+ "notes": "", 
+ "round": 7, 
+ "team1": {
+  "player": {
+   "country": "GBR", 
+   "name": "Andy Murray", 
+   "seed": 5
+  }, 
+  "previously": {
+   "match": 1, 
+   "notes": "", 
+   "round": 6, 
+   "team1": {
+    "player": {
+     "country": "ESP", 
+     "name": "David Ferrer", 
+     "seed": 7
+    }, 
+    "previously": {
+     "match": 1, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "ESP", 
+       "name": "Rafael Nadal", 
+       "seed": 1
+      }, 
+      "previously": {
+       "match": 1, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "ESP", 
+         "name": "Rafael Nadal", 
+         "seed": 1
+        }, 
+        "previously": {
+         "match": 1, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ESP", 
+           "name": "Rafael Nadal", 
+           "seed": 1
+          }, 
+          "previously": {
+           "match": 1, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ESP", 
+             "name": "Rafael Nadal", 
+             "seed": 1
+            }, 
+            "previously": {
+             "match": 1, 
+             "notes": "Retired", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Rafael Nadal", 
+               "seed": 1
+              }, 
+              "score": [
+               "6", 
+               "5", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "BRA", 
+               "name": "Marcos Daniel"
+              }, 
+              "score": [
+               "0", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "USA", 
+             "name": "Ryan Sweeting"
+            }, 
+            "previously": {
+             "match": 2, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Ryan Sweeting"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Daniel Gimeno-Traver"
+              }, 
+              "score": [
+               "4", 
+               "4", 
+               "1", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "2", 
+             "1", 
+             "1", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "7", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "AUS", 
+           "name": "Bernard Tomic"
+          }, 
+          "previously": {
+           "match": 2, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "AUS", 
+             "name": "Bernard Tomic"
+            }, 
+            "previously": {
+             "match": 3, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Bernard Tomic"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Jeremy Chardy"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "6^5", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7^7", 
+             "7^7", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "Feliciano Lopez", 
+             "seed": 31
+            }, 
+            "previously": {
+             "match": 4, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "COL", 
+               "name": "Alejandro Falla"
+              }, 
+              "score": [
+               "3", 
+               "6^6", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Feliciano Lopez", 
+               "seed": 31
+              }, 
+              "score": [
+               "6", 
+               "7^8", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6^4", 
+             "6^3", 
+             "3", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "2", 
+           "5", 
+           "3", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "CRO", 
+         "name": "Marin Cilic", 
+         "seed": 15
+        }, 
+        "previously": {
+         "match": 2, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "USA", 
+           "name": "John Isner", 
+           "seed": 20
+          }, 
+          "previously": {
+           "match": 3, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "John Isner", 
+             "seed": 20
+            }, 
+            "previously": {
+             "match": 5, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "John Isner", 
+               "seed": 20
+              }, 
+              "score": [
+               "6", 
+               "7^10", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Florent Serra"
+              }, 
+              "score": [
+               "3", 
+               "6^8", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "6", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "CZE", 
+             "name": "Radek Stepanek"
+            }, 
+            "previously": {
+             "match": 6, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Radek Stepanek"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Denis Gremelmayr"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "2", 
+             "1", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "2", 
+           "7^7", 
+           "6^2", 
+           "7"
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "CRO", 
+           "name": "Marin Cilic", 
+           "seed": 15
+          }, 
+          "previously": {
+           "match": 4, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "COL", 
+             "name": "Santiago Giraldo"
+            }, 
+            "previously": {
+             "match": 7, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "POR", 
+               "name": "Rui Machado"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "7", 
+               "1", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "COL", 
+               "name": "Santiago Giraldo"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "5", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "6^1", 
+             "1", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "CRO", 
+             "name": "Marin Cilic", 
+             "seed": 15
+            }, 
+            "previously": {
+             "match": 8, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Donald Young"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CRO", 
+               "name": "Marin Cilic", 
+               "seed": 15
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^7", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "4", 
+           "6", 
+           "6^5", 
+           "7^7", 
+           "9"
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "2", 
+         "4", 
+         "3", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "4", 
+       "2", 
+       "3", 
+       "", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "ESP", 
+       "name": "David Ferrer", 
+       "seed": 7
+      }, 
+      "previously": {
+       "match": 2, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "CAN", 
+         "name": "Milos Raonic"
+        }, 
+        "previously": {
+         "match": 3, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "RUS", 
+           "name": "Mikhail Youzhny", 
+           "seed": 10
+          }, 
+          "previously": {
+           "match": 5, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "RUS", 
+             "name": "Mikhail Youzhny", 
+             "seed": 10
+            }, 
+            "previously": {
+             "match": 9, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Mikhail Youzhny", 
+               "seed": 10
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "TUR", 
+               "name": "Marsel Ilhan"
+              }, 
+              "score": [
+               "2", 
+               "3", 
+               "6^5", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "5", 
+             "4", 
+             "6"
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "SLO", 
+             "name": "Blaz Kavcic"
+            }, 
+            "previously": {
+             "match": 10, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SLO", 
+               "name": "Blaz Kavcic"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "7^7", 
+               "7^7", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "RSA", 
+               "name": "Kevin Anderson"
+              }, 
+              "score": [
+               "6", 
+               "4", 
+               "6^4", 
+               "6^5", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "1", 
+             "7", 
+             "6", 
+             "1"
+            ]
+           }
+          }, 
+          "score": [
+           "4", 
+           "5", 
+           "6", 
+           "4", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "CAN", 
+           "name": "Milos Raonic"
+          }, 
+          "previously": {
+           "match": 6, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CAN", 
+             "name": "Milos Raonic"
+            }, 
+            "previously": {
+             "match": 11, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CAN", 
+               "name": "Milos Raonic"
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "7^10", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Bjorn Phau"
+              }, 
+              "score": [
+               "6^3", 
+               "3", 
+               "6^8", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7^7", 
+             "6", 
+             "7^7", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Michael Llodra", 
+             "seed": 22
+            }, 
+            "previously": {
+             "match": 12, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ARG", 
+               "name": "Juan Ignacio Chela"
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "2", 
+               "4", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Michael Llodra", 
+               "seed": 22
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "6", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6^3", 
+             "3", 
+             "6^4", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "7", 
+           "4", 
+           "6", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "2", 
+         "3", 
+         "4", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "ESP", 
+         "name": "David Ferrer", 
+         "seed": 7
+        }, 
+        "previously": {
+         "match": 4, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "LTU", 
+           "name": "Richard Berankis"
+          }, 
+          "previously": {
+           "match": 7, 
+           "notes": "Retired", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ARG", 
+             "name": "David Nalbandian", 
+             "seed": 27
+            }, 
+            "previously": {
+             "match": 13, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ARG", 
+               "name": "David Nalbandian", 
+               "seed": 27
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "3", 
+               "7^7", 
+               "9"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUS", 
+               "name": "Lleyton Hewitt"
+              }, 
+              "score": [
+               "6", 
+               "4", 
+               "6", 
+               "6^1", 
+               "7"
+              ]
+             }
+            }, 
+            "score": [
+             "1", 
+             "0", 
+             "0", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "LTU", 
+             "name": "Richard Berankis"
+            }, 
+            "previously": {
+             "match": 14, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "LTU", 
+               "name": "Richard Berankis"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUS", 
+               "name": "Marinko Matosevic"
+              }, 
+              "score": [
+               "4", 
+               "2", 
+               "5", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "2", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "2", 
+           "2", 
+           "1", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "ESP", 
+           "name": "David Ferrer", 
+           "seed": 7
+          }, 
+          "previously": {
+           "match": 8, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Michael Russell"
+            }, 
+            "previously": {
+             "match": 15, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Michael Russell"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "5", 
+               "7^11", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUS", 
+               "name": "Matthew Ebden"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "7", 
+               "6^9", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "0", 
+             "1", 
+             "5", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "David Ferrer", 
+             "seed": 7
+            }, 
+            "previously": {
+             "match": 16, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "FIN", 
+               "name": "Jarkko Nieminen"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "6", 
+               "2", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "David Ferrer", 
+               "seed": 7
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "1", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "7", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "4", 
+         "6", 
+         "6", 
+         "6", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "6", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "6", 
+     "6^2", 
+     "1", 
+     "6^2", 
+     ""
+    ]
+   }, 
+   "team2": {
+    "player": {
+     "country": "GBR", 
+     "name": "Andy Murray", 
+     "seed": 5
+    }, 
+    "previously": {
+     "match": 2, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "UKR", 
+       "name": "Alexandr Dolgopolov"
+      }, 
+      "previously": {
+       "match": 3, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "SWE", 
+         "name": "Robin Soderling", 
+         "seed": 4
+        }, 
+        "previously": {
+         "match": 5, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "SWE", 
+           "name": "Robin Soderling", 
+           "seed": 4
+          }, 
+          "previously": {
+           "match": 9, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SWE", 
+             "name": "Robin Soderling", 
+             "seed": 4
+            }, 
+            "previously": {
+             "match": 17, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SWE", 
+               "name": "Robin Soderling", 
+               "seed": 4
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ITA", 
+               "name": "Potito Starace"
+              }, 
+              "score": [
+               "4", 
+               "2", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^7", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "LUX", 
+             "name": "Gilles Muller"
+            }, 
+            "previously": {
+             "match": 18, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "LUX", 
+               "name": "Gilles Muller"
+              }, 
+              "score": [
+               "6", 
+               "7^7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Simon Stadler"
+              }, 
+              "score": [
+               "3", 
+               "6^5", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "6^1", 
+             "1", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "CZE", 
+           "name": "Jan Hernych"
+          }, 
+          "previously": {
+           "match": 10, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "Jan Hernych"
+            }, 
+            "previously": {
+             "match": 19, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "UZB", 
+               "name": "Denis Istomin"
+              }, 
+              "score": [
+               "3", 
+               "4", 
+               "6", 
+               "2", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CZE", 
+               "name": "Jan Hernych"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "3", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6^11", 
+             "6", 
+             "6^3", 
+             "8"
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "BRA", 
+             "name": "Thomaz Bellucci", 
+             "seed": 30
+            }, 
+            "previously": {
+             "match": 20, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "BRA", 
+               "name": "Ricardo Mello"
+              }, 
+              "score": [
+               "5", 
+               "5", 
+               "6", 
+               "6", 
+               "3"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "BRA", 
+               "name": "Thomaz Bellucci", 
+               "seed": 30
+              }, 
+              "score": [
+               "7", 
+               "7", 
+               "4", 
+               "3", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "2", 
+             "7^13", 
+             "4", 
+             "7^7", 
+             "6"
+            ]
+           }
+          }, 
+          "score": [
+           "3", 
+           "1", 
+           "4", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "3", 
+         "1", 
+         "6", 
+         "2"
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "UKR", 
+         "name": "Alexandr Dolgopolov"
+        }, 
+        "previously": {
+         "match": 6, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "UKR", 
+           "name": "Alexandr Dolgopolov"
+          }, 
+          "previously": {
+           "match": 11, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "GER", 
+             "name": "Benjamin Becker"
+            }, 
+            "previously": {
+             "match": 21, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "LAT", 
+               "name": "Ernests Gulbis", 
+               "seed": 24
+              }, 
+              "score": [
+               "6^5", 
+               "2", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Benjamin Becker"
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "0", 
+             "6", 
+             "6^3", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "UKR", 
+             "name": "Alexandr Dolgopolov"
+            }, 
+            "previously": {
+             "match": 22, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "UKR", 
+               "name": "Alexandr Dolgopolov"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "KAZ", 
+               "name": "Mikhail Kukushkin"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "3", 
+             "7^7", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "3", 
+           "6", 
+           "3", 
+           "6", 
+           "6"
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "FRA", 
+           "name": "Jo-Wilfried Tsonga", 
+           "seed": 13
+          }, 
+          "previously": {
+           "match": 12, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ITA", 
+             "name": "Andreas Seppi"
+            }, 
+            "previously": {
+             "match": 23, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Andreas Seppi"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "7", 
+               "6", 
+               "6"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Arnaud Clement"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "5", 
+               "3", 
+               "2"
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "6^1", 
+             "6^5", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Jo-Wilfried Tsonga", 
+             "seed": 13
+            }, 
+            "previously": {
+             "match": 24, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Philipp Petzschner"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "2", 
+               "3", 
+               "4"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Jo-Wilfried Tsonga", 
+               "seed": 13
+              }, 
+              "score": [
+               "4", 
+               "2", 
+               "6", 
+               "6", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^7", 
+             "7^7", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "3", 
+           "6", 
+           "1", 
+           "1"
+          ]
+         }
+        }, 
+        "score": [
+         "1", 
+         "6", 
+         "6", 
+         "4", 
+         "6"
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "5", 
+       "3", 
+       "7^7", 
+       "3", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "GBR", 
+       "name": "Andy Murray", 
+       "seed": 5
+      }, 
+      "previously": {
+       "match": 4, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "AUT", 
+         "name": "Jurgen Melzer", 
+         "seed": 11
+        }, 
+        "previously": {
+         "match": 7, 
+         "notes": "Retired", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "AUT", 
+           "name": "Jurgen Melzer", 
+           "seed": 11
+          }, 
+          "previously": {
+           "match": 13, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "AUT", 
+             "name": "Jurgen Melzer", 
+             "seed": 11
+            }, 
+            "previously": {
+             "match": 25, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUT", 
+               "name": "Jurgen Melzer", 
+               "seed": 11
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Vincent Millot"
+              }, 
+              "score": [
+               "2", 
+               "4", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "Pere Riba"
+            }, 
+            "previously": {
+             "match": 26, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Carsten Ball"
+              }, 
+              "score": [
+               "6", 
+               "6^5", 
+               "2", 
+               "6", 
+               "4"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Pere Riba"
+              }, 
+              "score": [
+               "1", 
+               "7^7", 
+               "6", 
+               "2", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "2", 
+             "4", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6^5", 
+           "6", 
+           "6", 
+           "4", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "CYP", 
+           "name": "Marcos Baghdatis", 
+           "seed": 21
+          }, 
+          "previously": {
+           "match": 14, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ARG", 
+             "name": "Juan Martin Del Potro"
+            }, 
+            "previously": {
+             "match": 27, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ISR", 
+               "name": "Dudi Sela"
+              }, 
+              "score": [
+               "6^13", 
+               "4", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ARG", 
+               "name": "Juan Martin Del Potro"
+              }, 
+              "score": [
+               "7^15", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "1", 
+             "3", 
+             "6", 
+             "3", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "CYP", 
+             "name": "Marcos Baghdatis", 
+             "seed": 21
+            }, 
+            "previously": {
+             "match": 28, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SLO", 
+               "name": "Grega Zemlja"
+              }, 
+              "score": [
+               "6", 
+               "5", 
+               "1", 
+               "6", 
+               "2"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CYP", 
+               "name": "Marcos Baghdatis", 
+               "seed": 21
+              }, 
+              "score": [
+               "3", 
+               "7", 
+               "6", 
+               "4", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "4", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "7^7", 
+           "2", 
+           "1", 
+           "3", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "1", 
+         "1", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "GBR", 
+         "name": "Andy Murray", 
+         "seed": 5
+        }, 
+        "previously": {
+         "match": 8, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ESP", 
+           "name": "Guillermo Garcia-Lopez", 
+           "seed": 32
+          }, 
+          "previously": {
+           "match": 15, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ESP", 
+             "name": "Guillermo Garcia-Lopez", 
+             "seed": 32
+            }, 
+            "previously": {
+             "match": 29, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Guillermo Garcia-Lopez", 
+               "seed": 32
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "3", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Michael Berrer"
+              }, 
+              "score": [
+               "4", 
+               "4", 
+               "6", 
+               "3", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^10", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ARG", 
+             "name": "Eduardo Schwank"
+            }, 
+            "previously": {
+             "match": 30, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ARG", 
+               "name": "Eduardo Schwank"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ARG", 
+               "name": "Leonardo Mayer"
+              }, 
+              "score": [
+               "2", 
+               "0", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6^8", 
+             "1", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "1", 
+           "1", 
+           "2", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "GBR", 
+           "name": "Andy Murray", 
+           "seed": 5
+          }, 
+          "previously": {
+           "match": 16, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "UKR", 
+             "name": "Illya Marchenko"
+            }, 
+            "previously": {
+             "match": 31, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "UKR", 
+               "name": "Illya Marchenko"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Ruben Ramirez Hidalgo"
+              }, 
+              "score": [
+               "3", 
+               "4", 
+               "1", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "1", 
+             "3", 
+             "3", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "GBR", 
+             "name": "Andy Murray", 
+             "seed": 5
+            }, 
+            "previously": {
+             "match": 32, 
+             "notes": "Retired", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Karol Beck"
+              }, 
+              "score": [
+               "3", 
+               "1", 
+               "2", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "GBR", 
+               "name": "Andy Murray", 
+               "seed": 5
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "4", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "7", 
+       "6", 
+       "6^3", 
+       "6", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "4", 
+     "7^7", 
+     "6", 
+     "7^7", 
+     ""
+    ], 
+    "winner": true
+   }
+  }, 
+  "score": [
+   "4", 
+   "2", 
+   "3", 
+   "", 
+   ""
+  ]
+ }, 
+ "team2": {
+  "player": {
+   "country": "SRB", 
+   "name": "Novak Djokovic", 
+   "seed": 3
+  }, 
+  "previously": {
+   "match": 2, 
+   "notes": "", 
+   "round": 6, 
+   "team1": {
+    "player": {
+     "country": "SRB", 
+     "name": "Novak Djokovic", 
+     "seed": 3
+    }, 
+    "previously": {
+     "match": 3, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "CZE", 
+       "name": "Tomas Berdych", 
+       "seed": 6
+      }, 
+      "previously": {
+       "match": 5, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "CZE", 
+         "name": "Tomas Berdych", 
+         "seed": 6
+        }, 
+        "previously": {
+         "match": 9, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "CZE", 
+           "name": "Tomas Berdych", 
+           "seed": 6
+          }, 
+          "previously": {
+           "match": 17, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "Tomas Berdych", 
+             "seed": 6
+            }, 
+            "previously": {
+             "match": 33, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Tomas Berdych", 
+               "seed": 6
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ITA", 
+               "name": "Marco Crugnola"
+              }, 
+              "score": [
+               "4", 
+               "0", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "6", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "GER", 
+             "name": "Philipp Kohlschreiber"
+            }, 
+            "previously": {
+             "match": 34, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Philipp Kohlschreiber"
+              }, 
+              "score": [
+               "1", 
+               "4", 
+               "7^8", 
+               "6", 
+               "6"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Tobias Kamke"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6^6", 
+               "4", 
+               "4"
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "2", 
+             "3", 
+             "4", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "7^7", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "FRA", 
+           "name": "Richard Gasquet", 
+           "seed": 28
+          }, 
+          "previously": {
+           "match": 18, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "FRA", 
+             "name": "Adrian Mannarino"
+            }, 
+            "previously": {
+             "match": 35, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Ryan Harrison"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Adrian Mannarino"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "6^4", 
+             "4", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Richard Gasquet", 
+             "seed": 28
+            }, 
+            "previously": {
+             "match": 36, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CAN", 
+               "name": "Frank Dancevic"
+              }, 
+              "score": [
+               "3", 
+               "4", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Richard Gasquet", 
+               "seed": 28
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^7", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "2", 
+           "6^3", 
+           "2", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "ESP", 
+         "name": "Fernando Verdasco", 
+         "seed": 9
+        }, 
+        "previously": {
+         "match": 10, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "JPN", 
+           "name": "Kei Nishikori"
+          }, 
+          "previously": {
+           "match": 19, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "GER", 
+             "name": "Florian Mayer"
+            }, 
+            "previously": {
+             "match": 37, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Nikolay Davydenko", 
+               "seed": 23
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "6^4", 
+               "4", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Florian Mayer"
+              }, 
+              "score": [
+               "6", 
+               "4", 
+               "7^7", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "3", 
+             "6", 
+             "3", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "JPN", 
+             "name": "Kei Nishikori"
+            }, 
+            "previously": {
+             "match": 38, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Fabio Fognini"
+              }, 
+              "score": [
+               "1", 
+               "4", 
+               "7^7", 
+               "4", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "JPN", 
+               "name": "Kei Nishikori"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6^4", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "0", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "2", 
+           "4", 
+           "3", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "ESP", 
+           "name": "Fernando Verdasco", 
+           "seed": 9
+          }, 
+          "previously": {
+           "match": 20, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SRB", 
+             "name": "Janko Tipsarevic"
+            }, 
+            "previously": {
+             "match": 39, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Mischa Zverev"
+              }, 
+              "score": [
+               "3", 
+               "1", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SRB", 
+               "name": "Janko Tipsarevic"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "4", 
+             "6^0", 
+             "0"
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "Fernando Verdasco", 
+             "seed": 9
+            }, 
+            "previously": {
+             "match": 40, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Rainer Schuettler"
+              }, 
+              "score": [
+               "1", 
+               "3", 
+               "2", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Fernando Verdasco", 
+               "seed": 9
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "2", 
+             "4", 
+             "6", 
+             "7^7", 
+             "6"
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "4", 
+         "2", 
+         "3", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "1", 
+       "6^5", 
+       "1", 
+       "", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "SRB", 
+       "name": "Novak Djokovic", 
+       "seed": 3
+      }, 
+      "previously": {
+       "match": 6, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "ESP", 
+         "name": "Nicolas Almagro", 
+         "seed": 14
+        }, 
+        "previously": {
+         "match": 11, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ESP", 
+           "name": "Nicolas Almagro", 
+           "seed": 14
+          }, 
+          "previously": {
+           "match": 21, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ESP", 
+             "name": "Nicolas Almagro", 
+             "seed": 14
+            }, 
+            "previously": {
+             "match": 41, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Nicolas Almagro", 
+               "seed": 14
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6^4", 
+               "7", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Stephane Robert"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "7^7", 
+               "5", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7", 
+             "2", 
+             "4", 
+             "7^12", 
+             "7"
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "Igor Andreev"
+            }, 
+            "previously": {
+             "match": 42, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Igor Andreev"
+              }, 
+              "score": [
+               "6", 
+               "7^7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ITA", 
+               "name": "Filippo Volandri"
+              }, 
+              "score": [
+               "3", 
+               "6^3", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "5", 
+             "6", 
+             "6", 
+             "6^10", 
+             "5"
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "7^10", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "CRO", 
+           "name": "Ivan Ljubicic", 
+           "seed": 17
+          }, 
+          "previously": {
+           "match": 22, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "FRA", 
+             "name": "Benoit Paire"
+            }, 
+            "previously": {
+             "match": 43, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Flavio Cipolla"
+              }, 
+              "score": [
+               "1", 
+               "5", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Benoit Paire"
+              }, 
+              "score": [
+               "6", 
+               "7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "7^7", 
+             "4", 
+             "6^5", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "CRO", 
+             "name": "Ivan Ljubicic", 
+             "seed": 17
+            }, 
+            "previously": {
+             "match": 44, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Peter Luczak"
+              }, 
+              "score": [
+               "3", 
+               "3", 
+               "6^2", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CRO", 
+               "name": "Ivan Ljubicic", 
+               "seed": 17
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6^2", 
+             "6", 
+             "7^7", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "4", 
+           "6^8", 
+           "3", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "4", 
+         "0", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "SRB", 
+         "name": "Novak Djokovic", 
+         "seed": 3
+        }, 
+        "previously": {
+         "match": 12, 
+         "notes": "Retired", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "SRB", 
+           "name": "Viktor Troicki", 
+           "seed": 29
+          }, 
+          "previously": {
+           "match": 23, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SRB", 
+             "name": "Viktor Troicki", 
+             "seed": 29
+            }, 
+            "previously": {
+             "match": 45, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SRB", 
+               "name": "Viktor Troicki", 
+               "seed": 29
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "6", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Dmitry Tursunov"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "2", 
+               "0", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "1", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Nicolas Mahut"
+            }, 
+            "previously": {
+             "match": 46, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ARG", 
+               "name": "Brian Dabul"
+              }, 
+              "score": [
+               "3", 
+               "4", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Nicolas Mahut"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "2", 
+             "6", 
+             "3", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "2", 
+           "", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "SRB", 
+           "name": "Novak Djokovic", 
+           "seed": 3
+          }, 
+          "previously": {
+           "match": 24, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CRO", 
+             "name": "Ivan Dodig"
+            }, 
+            "previously": {
+             "match": 47, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CRO", 
+               "name": "Ivo Karlovic"
+              }, 
+              "score": [
+               "4", 
+               "6", 
+               "7^7", 
+               "4", 
+               "4"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CRO", 
+               "name": "Ivan Dodig"
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "6^5", 
+               "6", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "5", 
+             "7^10", 
+             "0", 
+             "2", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "SRB", 
+             "name": "Novak Djokovic", 
+             "seed": 3
+            }, 
+            "previously": {
+             "match": 48, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Marcel Granollers"
+              }, 
+              "score": [
+               "1", 
+               "3", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SRB", 
+               "name": "Novak Djokovic", 
+               "seed": 3
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "7", 
+             "6^8", 
+             "6", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "6", 
+       "7^7", 
+       "6", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "7^7", 
+     "7", 
+     "6", 
+     "", 
+     ""
+    ], 
+    "winner": true
+   }, 
+   "team2": {
+    "player": {
+     "country": "SUI", 
+     "name": "Roger Federer", 
+     "seed": 2
+    }, 
+    "previously": {
+     "match": 4, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "SUI", 
+       "name": "Stanislas Wawrinka", 
+       "seed": 19
+      }, 
+      "previously": {
+       "match": 7, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "USA", 
+         "name": "Andy Roddick", 
+         "seed": 8
+        }, 
+        "previously": {
+         "match": 13, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "USA", 
+           "name": "Andy Roddick", 
+           "seed": 8
+          }, 
+          "previously": {
+           "match": 25, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Andy Roddick", 
+             "seed": 8
+            }, 
+            "previously": {
+             "match": 49, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Andy Roddick", 
+               "seed": 8
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "CZE", 
+               "name": "Jan Hajek"
+              }, 
+              "score": [
+               "1", 
+               "2", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7^9", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "Igor Kunitsyn"
+            }, 
+            "previously": {
+             "match": 50, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "POL", 
+               "name": "Michal Przysiezny"
+              }, 
+              "score": [
+               "7^7", 
+               "4", 
+               "4", 
+               "6^6", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Igor Kunitsyn"
+              }, 
+              "score": [
+               "6^1", 
+               "6", 
+               "6", 
+               "7^8", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6^7", 
+             "2", 
+             "3", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "2", 
+           "7^7", 
+           "6", 
+           "6", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "NED", 
+           "name": "Robin Haase"
+          }, 
+          "previously": {
+           "match": 26, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "NED", 
+             "name": "Robin Haase"
+            }, 
+            "previously": {
+             "match": 51, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ARG", 
+               "name": "Carlos Berlocq"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "6^5", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "NED", 
+               "name": "Robin Haase"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "3", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ARG", 
+             "name": "Juan Monaco", 
+             "seed": 26
+            }, 
+            "previously": {
+             "match": 52, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Simon Greul"
+              }, 
+              "score": [
+               "6^5", 
+               "6^4", 
+               "2", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ARG", 
+               "name": "Juan Monaco", 
+               "seed": 26
+              }, 
+              "score": [
+               "7^7", 
+               "7^7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "4", 
+             "6", 
+             "2", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6^2", 
+           "2", 
+           "2", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "4", 
+         "4", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "SUI", 
+         "name": "Stanislas Wawrinka", 
+         "seed": 19
+        }, 
+        "previously": {
+         "match": 14, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "SUI", 
+           "name": "Stanislas Wawrinka", 
+           "seed": 19
+          }, 
+          "previously": {
+           "match": 27, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SUI", 
+             "name": "Stanislas Wawrinka", 
+             "seed": 19
+            }, 
+            "previously": {
+             "match": 53, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SUI", 
+               "name": "Stanislas Wawrinka", 
+               "seed": 19
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Teymuraz Gabashvili"
+              }, 
+              "score": [
+               "6^3", 
+               "4", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "BUL", 
+             "name": "Grigor Dimitrov"
+            }, 
+            "previously": {
+             "match": 54, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "BUL", 
+               "name": "Grigor Dimitrov"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "KAZ", 
+               "name": "Andrey Golubev"
+              }, 
+              "score": [
+               "1", 
+               "4", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "5", 
+             "3", 
+             "3", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "7^7", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "FRA", 
+           "name": "Gael Monfils", 
+           "seed": 12
+          }, 
+          "previously": {
+           "match": 28, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "POR", 
+             "name": "Frederico Gil"
+            }, 
+            "previously": {
+             "match": 55, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "POR", 
+               "name": "Frederico Gil"
+              }, 
+              "score": [
+               "6", 
+               "6^7", 
+               "4", 
+               "6", 
+               "9"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "URU", 
+               "name": "Pablo Cuevas"
+              }, 
+              "score": [
+               "4", 
+               "7^9", 
+               "6", 
+               "3", 
+               "7"
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "3", 
+             "6", 
+             "2", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Gael Monfils", 
+             "seed": 12
+            }, 
+            "previously": {
+             "match": 56, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "NED", 
+               "name": "Thiemo de Bakker"
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "5", 
+               "2", 
+               "1"
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Gael Monfils", 
+               "seed": 12
+              }, 
+              "score": [
+               "6^5", 
+               "2", 
+               "7", 
+               "6", 
+               "6"
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "1", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6^4", 
+           "2", 
+           "3", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "1", 
+       "3", 
+       "3", 
+       "", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "SUI", 
+       "name": "Roger Federer", 
+       "seed": 2
+      }, 
+      "previously": {
+       "match": 8, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "ESP", 
+         "name": "Tommy Robredo"
+        }, 
+        "previously": {
+         "match": 15, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ESP", 
+           "name": "Tommy Robredo"
+          }, 
+          "previously": {
+           "match": 29, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Mardy Fish", 
+             "seed": 16
+            }, 
+            "previously": {
+             "match": 57, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Mardy Fish", 
+               "seed": 16
+              }, 
+              "score": [
+               "2", 
+               "4", 
+               "6", 
+               "7", 
+               "6"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ROU", 
+               "name": "Victor Hanescu"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "3", 
+               "5", 
+               "3"
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "3", 
+             "3", 
+             "3", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "Tommy Robredo"
+            }, 
+            "previously": {
+             "match": 58, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Tommy Robredo"
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "IND", 
+               "name": "Somdev Devvarman"
+              }, 
+              "score": [
+               "6^4", 
+               "3", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "1", 
+             "6", 
+             "6", 
+             "6", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "5", 
+           "6", 
+           "6", 
+           "6", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "UKR", 
+           "name": "Sergiy Stakhovsky"
+          }, 
+          "previously": {
+           "match": 30, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "UKR", 
+             "name": "Sergiy Stakhovsky"
+            }, 
+            "previously": {
+             "match": 59, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "UKR", 
+               "name": "Sergiy Stakhovsky"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Daniel Brands"
+              }, 
+              "score": [
+               "2", 
+               "3", 
+               "4", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "POL", 
+             "name": "Lukasz Kubot"
+            }, 
+            "previously": {
+             "match": 60, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "POL", 
+               "name": "Lukasz Kubot"
+              }, 
+              "score": [
+               "5", 
+               "6", 
+               "3", 
+               "6", 
+               "8"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Sam Querrey", 
+               "seed": 18
+              }, 
+              "score": [
+               "7", 
+               "2", 
+               "6", 
+               "1", 
+               "6"
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "4", 
+             "4", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "7", 
+           "2", 
+           "4", 
+           "2", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "6", 
+         "3", 
+         "2", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "SUI", 
+         "name": "Roger Federer", 
+         "seed": 2
+        }, 
+        "previously": {
+         "match": 16, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "BEL", 
+           "name": "Xavier Malisse"
+          }, 
+          "previously": {
+           "match": 31, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ESP", 
+             "name": "Albert Montanes", 
+             "seed": 25
+            }, 
+            "previously": {
+             "match": 61, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Albert Montanes", 
+               "seed": 25
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "3", 
+               "2", 
+               "7"
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Dustin Brown"
+              }, 
+              "score": [
+               "4", 
+               "2", 
+               "6", 
+               "6", 
+               "5"
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "0", 
+             "1", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "BEL", 
+             "name": "Xavier Malisse"
+            }, 
+            "previously": {
+             "match": 62, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Pablo Andujar"
+              }, 
+              "score": [
+               "1", 
+               "2", 
+               "6^3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "BEL", 
+               "name": "Xavier Malisse"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "3", 
+           "3", 
+           "1", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "SUI", 
+           "name": "Roger Federer", 
+           "seed": 2
+          }, 
+          "previously": {
+           "match": 32, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "FRA", 
+             "name": "Gilles Simon"
+            }, 
+            "previously": {
+             "match": 63, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "TPE", 
+               "name": "Yen-Hsun Lu"
+              }, 
+              "score": [
+               "7^7", 
+               "2", 
+               "4", 
+               "2", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Gilles Simon"
+              }, 
+              "score": [
+               "6^3", 
+               "6", 
+               "6", 
+               "6", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "2", 
+             "3", 
+             "6", 
+             "6", 
+             "3"
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "SUI", 
+             "name": "Roger Federer", 
+             "seed": 2
+            }, 
+            "previously": {
+             "match": 64, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Lukas Lacko"
+              }, 
+              "score": [
+               "1", 
+               "1", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SUI", 
+               "name": "Roger Federer", 
+               "seed": 2
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "4", 
+             "4", 
+             "6"
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "3", 
+         "6", 
+         "6", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "6", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "6^3", 
+     "5", 
+     "4", 
+     "", 
+     ""
+    ]
+   }
+  }, 
+  "score": [
+   "6", 
+   "6", 
+   "6", 
+   "", 
+   ""
+  ], 
+  "winner": true
+ }
+}
