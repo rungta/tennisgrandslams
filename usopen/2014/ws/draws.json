@@ -1,0 +1,4167 @@
+{
+ "match": 1, 
+ "notes": "", 
+ "round": 7, 
+ "team1": {
+  "player": {
+   "country": "USA", 
+   "name": "Serena Williams", 
+   "seed": 1
+  }, 
+  "previously": {
+   "match": 1, 
+   "notes": "", 
+   "round": 6, 
+   "team1": {
+    "player": {
+     "country": "USA", 
+     "name": "Serena Williams", 
+     "seed": 1
+    }, 
+    "previously": {
+     "match": 1, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "USA", 
+       "name": "Serena Williams", 
+       "seed": 1
+      }, 
+      "previously": {
+       "match": 1, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "USA", 
+         "name": "Serena Williams", 
+         "seed": 1
+        }, 
+        "previously": {
+         "match": 1, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "USA", 
+           "name": "Serena Williams", 
+           "seed": 1
+          }, 
+          "previously": {
+           "match": 1, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Serena Williams", 
+             "seed": 1
+            }, 
+            "previously": {
+             "match": 1, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Serena Williams", 
+               "seed": 1
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Taylor Townsend"
+              }, 
+              "score": [
+               "3", 
+               "1", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "USA", 
+             "name": "Vania King"
+            }, 
+            "previously": {
+             "match": 2, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Francesca Schiavone"
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Vania King"
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "1", 
+             "0", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "USA", 
+           "name": "Varvara Lepchenko"
+          }, 
+          "previously": {
+           "match": 2, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Varvara Lepchenko"
+            }, 
+            "previously": {
+             "match": 3, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Varvara Lepchenko"
+              }, 
+              "score": [
+               "7", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "BEL", 
+               "name": "Alison Van Uytvanck"
+              }, 
+              "score": [
+               "5", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "GER", 
+             "name": "Mona Barthel"
+            }, 
+            "previously": {
+             "match": 4, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Mona Barthel"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "CHN", 
+               "name": "Shuai Zhang", 
+               "seed": 32
+              }, 
+              "score": [
+               "1", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "0", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "3", 
+           "3", 
+           "", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "EST", 
+         "name": "Kaia Kanepi"
+        }, 
+        "previously": {
+         "match": 2, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "EST", 
+           "name": "Kaia Kanepi"
+          }, 
+          "previously": {
+           "match": 3, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "AUS", 
+             "name": "Samantha Stosur", 
+             "seed": 24
+            }, 
+            "previously": {
+             "match": 5, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Samantha Stosur", 
+               "seed": 24
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Lauren Davis"
+              }, 
+              "score": [
+               "1", 
+               "4", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "3", 
+             "6^8", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "EST", 
+             "name": "Kaia Kanepi"
+            }, 
+            "previously": {
+             "match": 6, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "FRA", 
+               "name": "Pauline Parmentier"
+              }, 
+              "score": [
+               "6^3", 
+               "6", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "EST", 
+               "name": "Kaia Kanepi"
+              }, 
+              "score": [
+               "7^7", 
+               "3", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "6", 
+             "7^10", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "7", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "ESP", 
+           "name": "Carla Suarez Navarro", 
+           "seed": 15
+          }, 
+          "previously": {
+           "match": 4, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Coco Vandeweghe"
+            }, 
+            "previously": {
+             "match": 7, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Coco Vandeweghe"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "CRO", 
+               "name": "Donna Vekic"
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "1", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "3", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "ESP", 
+             "name": "Carla Suarez Navarro", 
+             "seed": 15
+            }, 
+            "previously": {
+             "match": 8, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Ajla Tomljanovic"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Carla Suarez Navarro", 
+               "seed": 15
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "5", 
+           "0", 
+           "", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "3", 
+         "", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }, 
+     "team2": {
+      "player": {
+       "country": "ITA", 
+       "name": "Flavia Pennetta", 
+       "seed": 11
+      }, 
+      "previously": {
+       "match": 2, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "ITA", 
+         "name": "Flavia Pennetta", 
+         "seed": 11
+        }, 
+        "previously": {
+         "match": 3, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ITA", 
+           "name": "Flavia Pennetta", 
+           "seed": 11
+          }, 
+          "previously": {
+           "match": 5, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ITA", 
+             "name": "Flavia Pennetta", 
+             "seed": 11
+            }, 
+            "previously": {
+             "match": 9, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Flavia Pennetta", 
+               "seed": 11
+              }, 
+              "score": [
+               "6", 
+               "4", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Julia Goerges"
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "1", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "USA", 
+             "name": "Shelby Rogers"
+            }, 
+            "previously": {
+             "match": 10, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Shelby Rogers"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "UKR", 
+               "name": "Maryna Zanevska"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "3", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "USA", 
+           "name": "Nicole Gibbs"
+          }, 
+          "previously": {
+           "match": 6, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Nicole Gibbs"
+            }, 
+            "previously": {
+             "match": 11, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Nicole Gibbs"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Caroline Garcia"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6^6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "A.Pavlyuchenkova", 
+             "seed": 23
+            }, 
+            "previously": {
+             "match": 12, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "BRA", 
+               "name": "Teliana Pereira"
+              }, 
+              "score": [
+               "2", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "A.Pavlyuchenkova", 
+               "seed": 23
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "7^8", 
+             "3", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "4", 
+           "0", 
+           "", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "7", 
+         "6", 
+         "", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "AUS", 
+         "name": "Casey Dellacqua", 
+         "seed": 29
+        }, 
+        "previously": {
+         "match": 4, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "AUS", 
+           "name": "Casey Dellacqua", 
+           "seed": 29
+          }, 
+          "previously": {
+           "match": 7, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "AUS", 
+             "name": "Casey Dellacqua", 
+             "seed": 29
+            }, 
+            "previously": {
+             "match": 13, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Casey Dellacqua", 
+               "seed": 29
+              }, 
+              "score": [
+               "7", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUT", 
+               "name": "P.Mayr-Achleitner"
+              }, 
+              "score": [
+               "5", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "CHN", 
+             "name": "Qiang Wang"
+            }, 
+            "previously": {
+             "match": 14, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "POL", 
+               "name": "Paula Kania"
+              }, 
+              "score": [
+               "2", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CHN", 
+               "name": "Qiang Wang"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "3", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "CZE", 
+           "name": "Karolina Pliskova"
+          }, 
+          "previously": {
+           "match": 8, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "Karolina Pliskova"
+            }, 
+            "previously": {
+             "match": 15, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Karolina Pliskova"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUT", 
+               "name": "Yvonne Meusburger"
+              }, 
+              "score": [
+               "2", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "SRB", 
+             "name": "Ana Ivanovic", 
+             "seed": 8
+            }, 
+            "previously": {
+             "match": 16, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Alison Riske"
+              }, 
+              "score": [
+               "3", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SRB", 
+               "name": "Ana Ivanovic", 
+               "seed": 8
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "5", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "3", 
+           "6", 
+           "4", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "5", 
+         "2", 
+         "", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "3", 
+       "2", 
+       "", 
+       "", 
+       ""
+      ]
+     }
+    }, 
+    "score": [
+     "6", 
+     "6", 
+     "", 
+     "", 
+     ""
+    ], 
+    "winner": true
+   }, 
+   "team2": {
+    "player": {
+     "country": "RUS", 
+     "name": "Ekaterina Makarova", 
+     "seed": 17
+    }, 
+    "previously": {
+     "match": 2, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "BLR", 
+       "name": "Victoria Azarenka", 
+       "seed": 16
+      }, 
+      "previously": {
+       "match": 3, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "SRB", 
+         "name": "Aleksandra Krunic"
+        }, 
+        "previously": {
+         "match": 5, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "CZE", 
+           "name": "Petra Kvitova", 
+           "seed": 3
+          }, 
+          "previously": {
+           "match": 9, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "Petra Kvitova", 
+             "seed": 3
+            }, 
+            "previously": {
+             "match": 17, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Petra Kvitova", 
+               "seed": 3
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Kristina Mladenovic"
+              }, 
+              "score": [
+               "1", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "CZE", 
+             "name": "Petra Cetkovska"
+            }, 
+            "previously": {
+             "match": 18, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Klara Koukalova"
+              }, 
+              "score": [
+               "1", 
+               "6", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CZE", 
+               "name": "Petra Cetkovska"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "2", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "4", 
+           "4", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "SRB", 
+           "name": "Aleksandra Krunic"
+          }, 
+          "previously": {
+           "match": 10, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SRB", 
+             "name": "Aleksandra Krunic"
+            }, 
+            "previously": {
+             "match": 19, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SRB", 
+               "name": "Aleksandra Krunic"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "POL", 
+               "name": "Katarzyna Piter"
+              }, 
+              "score": [
+               "4", 
+               "1", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7^7", 
+             "2", 
+             "7", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "USA", 
+             "name": "Madison Keys", 
+             "seed": 27
+            }, 
+            "previously": {
+             "match": 20, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Jarmila Gajdosova"
+              }, 
+              "score": [
+               "0", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Madison Keys", 
+               "seed": 27
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6^4", 
+             "6", 
+             "5", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "4", 
+         "4", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "BLR", 
+         "name": "Victoria Azarenka", 
+         "seed": 16
+        }, 
+        "previously": {
+         "match": 6, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "RUS", 
+           "name": "Elena Vesnina"
+          }, 
+          "previously": {
+           "match": 11, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "NZL", 
+             "name": "Marina Erakovic"
+            }, 
+            "previously": {
+             "match": 21, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Svetlana Kuznetsova", 
+               "seed": 20
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "6^3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "NZL", 
+               "name": "Marina Erakovic"
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "5", 
+             "6", 
+             "4", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "Elena Vesnina"
+            }, 
+            "previously": {
+             "match": 22, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Elena Vesnina"
+              }, 
+              "score": [
+               "6", 
+               "7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "TPE", 
+               "name": "Yung-Jan Chan"
+              }, 
+              "score": [
+               "0", 
+               "5", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7", 
+             "2", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "1", 
+           "1", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "BLR", 
+           "name": "Victoria Azarenka", 
+           "seed": 16
+          }, 
+          "previously": {
+           "match": 12, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Christina McHale"
+            }, 
+            "previously": {
+             "match": 23, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RSA", 
+               "name": "Chanelle Scheepers"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "6^5", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Christina McHale"
+              }, 
+              "score": [
+               "6", 
+               "1", 
+               "7^7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "2", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "BLR", 
+             "name": "Victoria Azarenka", 
+             "seed": 16
+            }, 
+            "previously": {
+             "match": 24, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "JPN", 
+               "name": "Misaki Doi"
+              }, 
+              "score": [
+               "7^7", 
+               "4", 
+               "1", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "BLR", 
+               "name": "Victoria Azarenka", 
+               "seed": 16
+              }, 
+              "score": [
+               "6^3", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "4", 
+         "6", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "4", 
+       "2", 
+       "", 
+       "", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "RUS", 
+       "name": "Ekaterina Makarova", 
+       "seed": 17
+      }, 
+      "previously": {
+       "match": 4, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "RUS", 
+         "name": "Ekaterina Makarova", 
+         "seed": 17
+        }, 
+        "previously": {
+         "match": 7, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "KAZ", 
+           "name": "Zarina Diyas"
+          }, 
+          "previously": {
+           "match": 13, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Catherine Bellis"
+            }, 
+            "previously": {
+             "match": 25, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Dominika Cibulkova", 
+               "seed": 12
+              }, 
+              "score": [
+               "1", 
+               "6", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Catherine Bellis"
+              }, 
+              "score": [
+               "6", 
+               "4", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "6", 
+             "2", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "KAZ", 
+             "name": "Zarina Diyas"
+            }, 
+            "previously": {
+             "match": 26, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "KAZ", 
+               "name": "Zarina Diyas"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "UKR", 
+               "name": "Lesia Tsurenko"
+              }, 
+              "score": [
+               "1", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "0", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "2", 
+           "4", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "RUS", 
+           "name": "Ekaterina Makarova", 
+           "seed": 17
+          }, 
+          "previously": {
+           "match": 14, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SLO", 
+             "name": "Polona Hercog"
+            }, 
+            "previously": {
+             "match": 27, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "UKR", 
+               "name": "Elina Svitolina"
+              }, 
+              "score": [
+               "2", 
+               "6^4", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SLO", 
+               "name": "Polona Hercog"
+              }, 
+              "score": [
+               "6", 
+               "7^7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "1", 
+             "2", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "Ekaterina Makarova", 
+             "seed": 17
+            }, 
+            "previously": {
+             "match": 28, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Grace Min"
+              }, 
+              "score": [
+               "4", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Ekaterina Makarova", 
+               "seed": 17
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "7^7", 
+         "6", 
+         "", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "CAN", 
+         "name": "Eugenie Bouchard", 
+         "seed": 7
+        }, 
+        "previously": {
+         "match": 8, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "CZE", 
+           "name": "B.Zahlavova Strycova", 
+           "seed": 30
+          }, 
+          "previously": {
+           "match": 15, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "B.Zahlavova Strycova", 
+             "seed": 30
+            }, 
+            "previously": {
+             "match": 29, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "B.Zahlavova Strycova", 
+               "seed": 30
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "AUS", 
+               "name": "Ashleigh Barty"
+              }, 
+              "score": [
+               "1", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ROU", 
+             "name": "Monica Niculescu"
+            }, 
+            "previously": {
+             "match": 30, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "KAZ", 
+               "name": "Yaroslava Shvedova"
+              }, 
+              "score": [
+               "7^7", 
+               "1", 
+               "5", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ROU", 
+               "name": "Monica Niculescu"
+              }, 
+              "score": [
+               "6^5", 
+               "6", 
+               "7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "2", 
+           "7^7", 
+           "4", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "CAN", 
+           "name": "Eugenie Bouchard", 
+           "seed": 7
+          }, 
+          "previously": {
+           "match": 16, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ROU", 
+             "name": "Sorana Cirstea"
+            }, 
+            "previously": {
+             "match": 31, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ROU", 
+               "name": "Sorana Cirstea"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GBR", 
+               "name": "Heather Watson"
+              }, 
+              "score": [
+               "1", 
+               "1", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "2", 
+             "7^7", 
+             "4", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "CAN", 
+             "name": "Eugenie Bouchard", 
+             "seed": 7
+            }, 
+            "previously": {
+             "match": 32, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "BLR", 
+               "name": "Olga Govortsova"
+              }, 
+              "score": [
+               "2", 
+               "1", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CAN", 
+               "name": "Eugenie Bouchard", 
+               "seed": 7
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6^4", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6^2", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6^2", 
+         "4", 
+         "", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "1", 
+     "3", 
+     "", 
+     "", 
+     ""
+    ]
+   }
+  }, 
+  "score": [
+   "6", 
+   "6", 
+   "", 
+   "", 
+   ""
+  ], 
+  "winner": true
+ }, 
+ "team2": {
+  "player": {
+   "country": "DEN", 
+   "name": "Caroline Wozniacki", 
+   "seed": 10
+  }, 
+  "previously": {
+   "match": 2, 
+   "notes": "Retired", 
+   "round": 6, 
+   "team1": {
+    "player": {
+     "country": "CHN", 
+     "name": "Shuai Peng"
+    }, 
+    "previously": {
+     "match": 3, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "SUI", 
+       "name": "Belinda Bencic"
+      }, 
+      "previously": {
+       "match": 5, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "SUI", 
+         "name": "Belinda Bencic"
+        }, 
+        "previously": {
+         "match": 9, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "GER", 
+           "name": "Angelique Kerber", 
+           "seed": 6
+          }, 
+          "previously": {
+           "match": 17, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "GER", 
+             "name": "Angelique Kerber", 
+             "seed": 6
+            }, 
+            "previously": {
+             "match": 33, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Angelique Kerber", 
+               "seed": 6
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "7", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Ksenia Pervak"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "5", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "RUS", 
+             "name": "Alla Kudryavtseva"
+            }, 
+            "previously": {
+             "match": 34, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CHN", 
+               "name": "Ying-Ying Duan"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "4", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Alla Kudryavtseva"
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "2", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "1", 
+           "5", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "SUI", 
+           "name": "Belinda Bencic"
+          }, 
+          "previously": {
+           "match": 18, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SUI", 
+             "name": "Belinda Bencic"
+            }, 
+            "previously": {
+             "match": 35, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SUI", 
+               "name": "Belinda Bencic"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "BEL", 
+               "name": "Yanina Wickmayer"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "JPN", 
+             "name": "Kurumi Nara", 
+             "seed": 31
+            }, 
+            "previously": {
+             "match": 36, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CAN", 
+               "name": "Aleksandra Wozniak"
+              }, 
+              "score": [
+               "2", 
+               "1", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "JPN", 
+               "name": "Kurumi Nara", 
+               "seed": 31
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "1", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "7", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "7^8", 
+         "6", 
+         "", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "SRB", 
+         "name": "Jelena Jankovic", 
+         "seed": 9
+        }, 
+        "previously": {
+         "match": 10, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "SWE", 
+           "name": "Johanna Larsson"
+          }, 
+          "previously": {
+           "match": 19, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Sloane Stephens", 
+             "seed": 21
+            }, 
+            "previously": {
+             "match": 37, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Sloane Stephens", 
+               "seed": 21
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Annika Beck"
+              }, 
+              "score": [
+               "0", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "7", 
+             "4", 
+             "2", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "SWE", 
+             "name": "Johanna Larsson"
+            }, 
+            "previously": {
+             "match": 38, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "FRA", 
+               "name": "Virginie Razzano"
+              }, 
+              "score": [
+               "0", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SWE", 
+               "name": "Johanna Larsson"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "5", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "1", 
+           "0", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "SRB", 
+           "name": "Jelena Jankovic", 
+           "seed": 9
+          }, 
+          "previously": {
+           "match": 20, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "BUL", 
+             "name": "Tsvetana Pironkova"
+            }, 
+            "previously": {
+             "match": 39, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Karin Knapp"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "BUL", 
+               "name": "Tsvetana Pironkova"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "5", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "SRB", 
+             "name": "Jelena Jankovic", 
+             "seed": 9
+            }, 
+            "previously": {
+             "match": 40, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SRB", 
+               "name": "Bojana Jovanovski"
+              }, 
+              "score": [
+               "2", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SRB", 
+               "name": "Jelena Jankovic", 
+               "seed": 9
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "7", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6^6", 
+         "3", 
+         "", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "2", 
+       "1", 
+       "", 
+       "", 
+       ""
+      ]
+     }, 
+     "team2": {
+      "player": {
+       "country": "CHN", 
+       "name": "Shuai Peng"
+      }, 
+      "previously": {
+       "match": 6, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "CZE", 
+         "name": "Lucie Safarova", 
+         "seed": 14
+        }, 
+        "previously": {
+         "match": 11, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "CZE", 
+           "name": "Lucie Safarova", 
+           "seed": 14
+          }, 
+          "previously": {
+           "match": 21, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CZE", 
+             "name": "Lucie Safarova", 
+             "seed": 14
+            }, 
+            "previously": {
+             "match": 41, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Lucie Safarova", 
+               "seed": 14
+              }, 
+              "score": [
+               "6", 
+               "7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "HUN", 
+               "name": "Timea Babos"
+              }, 
+              "score": [
+               "4", 
+               "5", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "CHN", 
+             "name": "Saisai Zheng"
+            }, 
+            "previously": {
+             "match": 42, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CHN", 
+               "name": "Saisai Zheng"
+              }, 
+              "score": [
+               "1", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "SUI", 
+               "name": "Stefanie Voegele"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "2", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "6", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6^3", 
+           "6", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "FRA", 
+           "name": "Alize Cornet", 
+           "seed": 22
+          }, 
+          "previously": {
+           "match": 22, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SVK", 
+             "name": "Daniela Hantuchova"
+            }, 
+            "previously": {
+             "match": 43, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SUI", 
+               "name": "Romina Oprandi"
+              }, 
+              "score": [
+               "6", 
+               "2", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SVK", 
+               "name": "Daniela Hantuchova"
+              }, 
+              "score": [
+               "4", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "3", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "FRA", 
+             "name": "Alize Cornet", 
+             "seed": 22
+            }, 
+            "previously": {
+             "match": 44, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "FRA", 
+               "name": "Amandine Hesse"
+              }, 
+              "score": [
+               "1", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "FRA", 
+               "name": "Alize Cornet", 
+               "seed": 22
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "3", 
+           "7^7", 
+           "4", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "4", 
+         "", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "CHN", 
+         "name": "Shuai Peng"
+        }, 
+        "previously": {
+         "match": 12, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ITA", 
+           "name": "Roberta Vinci", 
+           "seed": 28
+          }, 
+          "previously": {
+           "match": 23, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ITA", 
+             "name": "Roberta Vinci", 
+             "seed": 28
+            }, 
+            "previously": {
+             "match": 45, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Roberta Vinci", 
+               "seed": 28
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ARG", 
+               "name": "Paula Ormaechea"
+              }, 
+              "score": [
+               "3", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "2", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ROU", 
+             "name": "Irina-Camelia Begu"
+            }, 
+            "previously": {
+             "match": 46, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ROU", 
+               "name": "Irina-Camelia Begu"
+              }, 
+              "score": [
+               "7^7", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "Silvia Soler-Espinosa"
+              }, 
+              "score": [
+               "6^4", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "4", 
+             "1", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "4", 
+           "3", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "CHN", 
+           "name": "Shuai Peng"
+          }, 
+          "previously": {
+           "match": 24, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CHN", 
+             "name": "Shuai Peng"
+            }, 
+            "previously": {
+             "match": 47, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CHN", 
+               "name": "Shuai Peng"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "CHN", 
+               "name": "Jie Zheng"
+              }, 
+              "score": [
+               "3", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "POL", 
+             "name": "Agnieszka Radwanska", 
+             "seed": 4
+            }, 
+            "previously": {
+             "match": 48, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CAN", 
+               "name": "Sharon Fichman"
+              }, 
+              "score": [
+               "1", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "POL", 
+               "name": "Agnieszka Radwanska", 
+               "seed": 4
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "6", 
+         "", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }
+    }, 
+    "score": [
+     "6^1", 
+     "3", 
+     "", 
+     "", 
+     ""
+    ]
+   }, 
+   "team2": {
+    "player": {
+     "country": "DEN", 
+     "name": "Caroline Wozniacki", 
+     "seed": 10
+    }, 
+    "previously": {
+     "match": 4, 
+     "notes": "", 
+     "round": 5, 
+     "team1": {
+      "player": {
+       "country": "DEN", 
+       "name": "Caroline Wozniacki", 
+       "seed": 10
+      }, 
+      "previously": {
+       "match": 7, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "RUS", 
+         "name": "Maria Sharapova", 
+         "seed": 5
+        }, 
+        "previously": {
+         "match": 13, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "RUS", 
+           "name": "Maria Sharapova", 
+           "seed": 5
+          }, 
+          "previously": {
+           "match": 25, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "RUS", 
+             "name": "Maria Sharapova", 
+             "seed": 5
+            }, 
+            "previously": {
+             "match": 49, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "RUS", 
+               "name": "Maria Sharapova", 
+               "seed": 5
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "RUS", 
+               "name": "Maria Kirilenko"
+              }, 
+              "score": [
+               "4", 
+               "0", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ROU", 
+             "name": "Alexandra Dulgheru"
+            }, 
+            "previously": {
+             "match": 50, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Kristyna Pliskova"
+              }, 
+              "score": [
+               "3", 
+               "4", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ROU", 
+               "name": "Alexandra Dulgheru"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "3", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "GER", 
+           "name": "Sabine Lisicki", 
+           "seed": 26
+          }, 
+          "previously": {
+           "match": 26, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "USA", 
+             "name": "Madison Brengle"
+            }, 
+            "previously": {
+             "match": 51, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ISR", 
+               "name": "Julia Glushko"
+              }, 
+              "score": [
+               "3", 
+               "2", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Madison Brengle"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "4", 
+             "1", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "GER", 
+             "name": "Sabine Lisicki", 
+             "seed": 26
+            }, 
+            "previously": {
+             "match": 52, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CAN", 
+               "name": "Francoise Abanda"
+              }, 
+              "score": [
+               "3", 
+               "5", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "GER", 
+               "name": "Sabine Lisicki", 
+               "seed": 26
+              }, 
+              "score": [
+               "6", 
+               "7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "2", 
+           "4", 
+           "", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "4", 
+         "6", 
+         "2", 
+         "", 
+         ""
+        ]
+       }, 
+       "team2": {
+        "player": {
+         "country": "DEN", 
+         "name": "Caroline Wozniacki", 
+         "seed": 10
+        }, 
+        "previously": {
+         "match": 14, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "GER", 
+           "name": "Andrea Petkovic", 
+           "seed": 18
+          }, 
+          "previously": {
+           "match": 27, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "GER", 
+             "name": "Andrea Petkovic", 
+             "seed": 18
+            }, 
+            "previously": {
+             "match": 53, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GER", 
+               "name": "Andrea Petkovic", 
+               "seed": 18
+              }, 
+              "score": [
+               "7^9", 
+               "1", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "TUN", 
+               "name": "Ons Jabeur"
+              }, 
+              "score": [
+               "6^7", 
+               "6", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "3", 
+             "6", 
+             "7^7", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "PUR", 
+             "name": "Monica Puig"
+            }, 
+            "previously": {
+             "match": 54, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "CZE", 
+               "name": "Tereza Smitkova"
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "PUR", 
+               "name": "Monica Puig"
+              }, 
+              "score": [
+               "3", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "3", 
+             "6^5", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "3", 
+           "2", 
+           "", 
+           "", 
+           ""
+          ]
+         }, 
+         "team2": {
+          "player": {
+           "country": "DEN", 
+           "name": "Caroline Wozniacki", 
+           "seed": 10
+          }, 
+          "previously": {
+           "match": 28, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "BLR", 
+             "name": "Aliaksandra Sasnovich"
+            }, 
+            "previously": {
+             "match": 55, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Anna Schmiedlova"
+              }, 
+              "score": [
+               "4", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "BLR", 
+               "name": "Aliaksandra Sasnovich"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "3", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "DEN", 
+             "name": "Caroline Wozniacki", 
+             "seed": 10
+            }, 
+            "previously": {
+             "match": 56, 
+             "notes": "Retired", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Magdalena Rybarikova"
+              }, 
+              "score": [
+               "1", 
+               "6", 
+               "0", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "DEN", 
+               "name": "Caroline Wozniacki", 
+               "seed": 10
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "2", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }
+        }, 
+        "score": [
+         "6", 
+         "2", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }
+      }, 
+      "score": [
+       "6", 
+       "6", 
+       "", 
+       "", 
+       ""
+      ], 
+      "winner": true
+     }, 
+     "team2": {
+      "player": {
+       "country": "ITA", 
+       "name": "Sara Errani", 
+       "seed": 13
+      }, 
+      "previously": {
+       "match": 8, 
+       "notes": "", 
+       "round": 4, 
+       "team1": {
+        "player": {
+         "country": "ITA", 
+         "name": "Sara Errani", 
+         "seed": 13
+        }, 
+        "previously": {
+         "match": 15, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "ITA", 
+           "name": "Sara Errani", 
+           "seed": 13
+          }, 
+          "previously": {
+           "match": 29, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "ITA", 
+             "name": "Sara Errani", 
+             "seed": 13
+            }, 
+            "previously": {
+             "match": 57, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ITA", 
+               "name": "Sara Errani", 
+               "seed": 13
+              }, 
+              "score": [
+               "6", 
+               "7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "BEL", 
+               "name": "Kirsten Flipkens"
+              }, 
+              "score": [
+               "1", 
+               "5", 
+               "", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "6", 
+             "7^7", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "AUS", 
+             "name": "Anastasia Rodionova"
+            }, 
+            "previously": {
+             "match": 58, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "AUS", 
+               "name": "Anastasia Rodionova"
+              }, 
+              "score": [
+               "1", 
+               "7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ITA", 
+               "name": "Camila Giorgi"
+              }, 
+              "score": [
+               "6", 
+               "5", 
+               "3", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "4", 
+             "6^2", 
+             "", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "6", 
+           "0", 
+           "7^7", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "USA", 
+           "name": "Venus Williams", 
+           "seed": 19
+          }, 
+          "previously": {
+           "match": 30, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SUI", 
+             "name": "Timea Bacsinszky"
+            }, 
+            "previously": {
+             "match": 59, 
+             "notes": "Retired", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "NED", 
+               "name": "Kiki Bertens"
+              }, 
+              "score": [
+               "7^9", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "SUI", 
+               "name": "Timea Bacsinszky"
+              }, 
+              "score": [
+               "6^7", 
+               "4", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "1", 
+             "4", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "USA", 
+             "name": "Venus Williams", 
+             "seed": 19
+            }, 
+            "previously": {
+             "match": 60, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "JPN", 
+               "name": "Kimiko Date-Krumm"
+              }, 
+              "score": [
+               "6", 
+               "3", 
+               "3", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "USA", 
+               "name": "Venus Williams", 
+               "seed": 19
+              }, 
+              "score": [
+               "2", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "0", 
+           "6", 
+           "6^5", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "6", 
+         "2", 
+         "6", 
+         "", 
+         ""
+        ], 
+        "winner": true
+       }, 
+       "team2": {
+        "player": {
+         "country": "CRO", 
+         "name": "Mirjana Lucic-Baroni"
+        }, 
+        "previously": {
+         "match": 16, 
+         "notes": "", 
+         "round": 3, 
+         "team1": {
+          "player": {
+           "country": "CRO", 
+           "name": "Mirjana Lucic-Baroni"
+          }, 
+          "previously": {
+           "match": 31, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "CRO", 
+             "name": "Mirjana Lucic-Baroni"
+            }, 
+            "previously": {
+             "match": 61, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "ESP", 
+               "name": "Garbine Muguruza", 
+               "seed": 25
+              }, 
+              "score": [
+               "3", 
+               "6^4", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "CRO", 
+               "name": "Mirjana Lucic-Baroni"
+              }, 
+              "score": [
+               "6", 
+               "7^7", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6^6", 
+             "6", 
+             "6", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }, 
+           "team2": {
+            "player": {
+             "country": "ISR", 
+             "name": "Shahar Peer"
+            }, 
+            "previously": {
+             "match": 62, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "GBR", 
+               "name": "Johanna Konta"
+              }, 
+              "score": [
+               "2", 
+               "3", 
+               "", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ISR", 
+               "name": "Shahar Peer"
+              }, 
+              "score": [
+               "6", 
+               "6", 
+               "", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "7^8", 
+             "3", 
+             "2", 
+             "", 
+             ""
+            ]
+           }
+          }, 
+          "score": [
+           "7^8", 
+           "6", 
+           "", 
+           "", 
+           ""
+          ], 
+          "winner": true
+         }, 
+         "team2": {
+          "player": {
+           "country": "ROU", 
+           "name": "Simona Halep", 
+           "seed": 2
+          }, 
+          "previously": {
+           "match": 32, 
+           "notes": "", 
+           "round": 2, 
+           "team1": {
+            "player": {
+             "country": "SVK", 
+             "name": "Jana Cepelova"
+            }, 
+            "previously": {
+             "match": 63, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "SVK", 
+               "name": "Jana Cepelova"
+              }, 
+              "score": [
+               "2", 
+               "7", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }, 
+             "team2": {
+              "player": {
+               "country": "ESP", 
+               "name": "M.Torro-Flor"
+              }, 
+              "score": [
+               "6", 
+               "5", 
+               "1", 
+               "", 
+               ""
+              ]
+             }
+            }, 
+            "score": [
+             "2", 
+             "1", 
+             "", 
+             "", 
+             ""
+            ]
+           }, 
+           "team2": {
+            "player": {
+             "country": "ROU", 
+             "name": "Simona Halep", 
+             "seed": 2
+            }, 
+            "previously": {
+             "match": 64, 
+             "notes": "", 
+             "round": 1, 
+             "team1": {
+              "player": {
+               "country": "USA", 
+               "name": "Danielle Rose Collins"
+              }, 
+              "score": [
+               "7^7", 
+               "1", 
+               "2", 
+               "", 
+               ""
+              ]
+             }, 
+             "team2": {
+              "player": {
+               "country": "ROU", 
+               "name": "Simona Halep", 
+               "seed": 2
+              }, 
+              "score": [
+               "6^2", 
+               "6", 
+               "6", 
+               "", 
+               ""
+              ], 
+              "winner": true
+             }
+            }, 
+            "score": [
+             "6", 
+             "6", 
+             "", 
+             "", 
+             ""
+            ], 
+            "winner": true
+           }
+          }, 
+          "score": [
+           "6^6", 
+           "2", 
+           "", 
+           "", 
+           ""
+          ]
+         }
+        }, 
+        "score": [
+         "3", 
+         "6", 
+         "0", 
+         "", 
+         ""
+        ]
+       }
+      }, 
+      "score": [
+       "0", 
+       "1", 
+       "", 
+       "", 
+       ""
+      ]
+     }
+    }, 
+    "score": [
+     "7^7", 
+     "4", 
+     "", 
+     "", 
+     ""
+    ], 
+    "winner": true
+   }
+  }, 
+  "score": [
+   "3", 
+   "3", 
+   "", 
+   "", 
+   ""
+  ]
+ }
+}
